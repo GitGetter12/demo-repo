@@ -4,4 +4,4 @@ Some description!
 
 ## Subheader
 
-I'm watching tutorial.
+I'm watching the tutorial.
